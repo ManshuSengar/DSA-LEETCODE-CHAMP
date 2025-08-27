@@ -3,15 +3,42 @@
  * @return {string}
  */
 var largestNumber = function(nums) {
-    // Convert numbers to strings
-    let strNums = nums.map(String);
+    let strNums = [];
+    for (let i = 0; i < nums.length; i++) {
+        strNums.push(String(nums[i]));
+    }
 
-    // Custom sort based on concatenation
-    strNums.sort((a, b) => (b + a).localeCompare(a + b));
+    function quickSort(arr, left, right) {
+        if (left >= right) return;
 
-    // Join result
-    let result = strNums.join('');
+        let pivotIndex = partition(arr, left, right);
+        quickSort(arr, left, pivotIndex - 1);
+        quickSort(arr, pivotIndex + 1, right);
+    }
 
-    // Handle case with leading zeros (like [0,0])
-    return result[0] === '0' ? '0' : result;
+    function partition(arr, left, right) {
+        let pivot = arr[right];
+        let i = left;
+        for (let j = left; j < right; j++) {
+            if (compare(arr[j], pivot)) {
+                [arr[i], arr[j]] = [arr[j], arr[i]];
+                i++;
+            }
+        }
+        [arr[i], arr[right]] = [arr[right], arr[i]];
+        return i;
+    }
+
+    function compare(a, b) {
+        return (a + b) > (b + a);
+    }
+
+    quickSort(strNums, 0, strNums.length - 1);
+
+    let result = "";
+    for (let i = 0; i < strNums.length; i++) {
+        result += strNums[i];
+    }
+
+    return result[0] === "0" ? "0" : result;
 };
