@@ -7,38 +7,45 @@ var largestNumber = function(nums) {
     for (let i = 0; i < nums.length; i++) {
         strNums.push(String(nums[i]));
     }
-
-    function quickSort(arr, left, right) {
-        if (left >= right) return;
-
-        let pivotIndex = partition(arr, left, right);
-        quickSort(arr, left, pivotIndex - 1);
-        quickSort(arr, pivotIndex + 1, right);
+    function compare(a, b) {
+        return (a + b) > (b + a); 
     }
+    function merge(left, right) {
+        let result = [];
+        let i = 0, j = 0;
 
-    function partition(arr, left, right) {
-        let pivot = arr[right];
-        let i = left;
-        for (let j = left; j < right; j++) {
-            if (compare(arr[j], pivot)) {
-                [arr[i], arr[j]] = [arr[j], arr[i]];
+        while (i < left.length && j < right.length) {
+            if (compare(left[i], right[j])) {
+                result.push(left[i]);
                 i++;
+            } else {
+                result.push(right[j]);
+                j++;
             }
         }
-        [arr[i], arr[right]] = [arr[right], arr[i]];
-        return i;
+        while (i < left.length) {
+            result.push(left[i]);
+            i++;
+        }
+        while (j < right.length) {
+            result.push(right[j]);
+            j++;
+        }
+        return result;
     }
+    function mergeSort(arr) {
+        if (arr.length <= 1) return arr;
 
-    function compare(a, b) {
-        return (a + b) > (b + a);
+        let mid = Math.floor(arr.length / 2);
+        let left = mergeSort(arr.slice(0, mid));
+        let right = mergeSort(arr.slice(mid));
+
+        return merge(left, right);
     }
-
-    quickSort(strNums, 0, strNums.length - 1);
-
+    let sorted = mergeSort(strNums);
     let result = "";
-    for (let i = 0; i < strNums.length; i++) {
-        result += strNums[i];
+    for (let i = 0; i < sorted.length; i++) {
+        result += sorted[i];
     }
-
     return result[0] === "0" ? "0" : result;
 };
