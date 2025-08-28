@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0162-find-peak-element) |
 ## String
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0179-largest-number) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
