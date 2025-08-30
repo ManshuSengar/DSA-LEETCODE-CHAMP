@@ -41,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0278-first-bad-version](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0374-guess-number-higher-or-lower) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
