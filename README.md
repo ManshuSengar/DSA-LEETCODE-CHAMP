@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0069-sqrtx) |
 ## Interactive
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0225-implement-stack-using-queues) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
