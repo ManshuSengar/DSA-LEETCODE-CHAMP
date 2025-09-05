@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0048-rotate-image) |
 | [0162-find-peak-element](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0179-largest-number) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0069-sqrtx) |
 ## Interactive
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
