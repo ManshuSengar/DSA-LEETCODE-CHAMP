@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0225-implement-stack-using-queues) |
+| [0838-design-linked-list](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0838-design-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0206-reverse-linked-list) |
+| [0838-design-linked-list](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
