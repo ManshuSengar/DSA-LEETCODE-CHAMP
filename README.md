@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,10 +71,15 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
