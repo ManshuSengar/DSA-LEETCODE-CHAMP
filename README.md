@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0005-longest-palindromic-substring) |
 | [0179-largest-number](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0179-largest-number) |
 ## Greedy
 |  |
@@ -81,5 +82,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0005-longest-palindromic-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0160-intersection-of-two-linked-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
