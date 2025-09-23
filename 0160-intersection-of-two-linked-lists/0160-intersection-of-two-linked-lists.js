@@ -12,17 +12,40 @@
  * @return {ListNode}
  */
 var getIntersectionNode = function(headA, headB) {
-    let setB=new Set();
-    let currB=headB;
+    let sizeA=0;
+    let sizeB=0;
     let currA=headA;
-    while(currB){
-       setB.add(currB);
-       currB=currB.next; 
-    }
-
+    let currB=headB;
     while(currA){
-        if(setB.has(currA)) return currA;
         currA=currA.next;
+        sizeA++;
+    }
+    while(currB){
+        currB=currB.next;
+        sizeB++;
+    }
+    let diff= Math.abs(sizeA - sizeB);
+    console.log("currB",currB,sizeA,currA,sizeB,diff)
+    currB=headB;
+    currA=headA;
+    if(sizeA>sizeB){
+        for(let i=0;i<diff;i++){
+            currA=currA.next;
+        }
+    }
+    else{
+         for(let i=0;i<diff;i++){
+            currB=currB.next;
+        }
+    }
+    console.log("currA--> ",currA,currB);
+     while(currA){
+        console.log("currA.val",currA.val);
+        if(currA===currB) {
+            return currA;
+        }
+        currA=currA.next;
+        currB=currB.next;
     }
 
     return null;
