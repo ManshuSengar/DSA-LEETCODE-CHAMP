@@ -25,7 +25,6 @@ var getIntersectionNode = function(headA, headB) {
         sizeB++;
     }
     let diff= Math.abs(sizeA - sizeB);
-    console.log("currB",currB,sizeA,currA,sizeB,diff)
     currB=headB;
     currA=headA;
     if(sizeA>sizeB){
@@ -38,9 +37,7 @@ var getIntersectionNode = function(headA, headB) {
             currB=currB.next;
         }
     }
-    console.log("currA--> ",currA,currB);
      while(currA){
-        console.log("currA.val",currA.val);
         if(currA===currB) {
             return currA;
         }
