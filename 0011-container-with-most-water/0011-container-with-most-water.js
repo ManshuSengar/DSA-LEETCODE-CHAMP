@@ -3,13 +3,18 @@
  * @return {number}
  */
 var maxArea = function(arr) {
-    let i=0;
-    let j=arr.length-1;
-    let area=0;
-    while(i<j){
-        area=Math.max(Math.min(arr[i],arr[j])*(j-i),area);
-        if(arr[i]<arr[j]) i++;
-        else j--;
+   let i=0;
+   let j=arr.length-1;
+   let ans=0;
+   while(i<j){
+    let area=Math.min(arr[i],arr[j])*(j-i);
+    ans=Math.max(ans,area);
+    if(arr[i]>arr[j]){
+        j--;
     }
-    return area;
+    else{
+        i++;
+    }
+   }
+   return ans;
 };
