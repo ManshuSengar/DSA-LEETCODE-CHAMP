@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0048-rotate-image) |
 | [0162-find-peak-element](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0179-largest-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
@@ -90,9 +92,15 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
