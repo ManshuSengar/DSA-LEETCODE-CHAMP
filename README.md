@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0179-largest-number) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
