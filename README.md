@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
@@ -109,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0003-longest-substring-without-repeating-characters) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
