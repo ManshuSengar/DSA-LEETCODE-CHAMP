@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0069-sqrtx) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Interactive
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/0029-divide-two-integers) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ManshuSengar/DSA-LEETCODE-CHAMP/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
 | ------- |
